@@ -1,0 +1,17 @@
+[
+  {
+    "name": "app(resume)",
+    "language": "flutter",
+    "detail": "using Flutter to write an application,both can work on ios and andriod system. \nRead data from json.\n"
+  },
+  {
+    "name": "text Formatting:",
+    "language": "C/Python",
+    "detail": "read and write txt file, formatting text. \nUsing git to submit and download file.\n",
+    "link": "ef"
+  }
+
+
+]
+
+
