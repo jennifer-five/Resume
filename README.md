@@ -3,8 +3,8 @@ You can down the app- release. apk and install in an android to see my mobile ap
 
 The main code in the resume/lib file, and all resous in the assets file.
 
-![GitHub](./start_page.png)
-![GitHub](./education_page.png)
-![GitHub](./experience_page.png)
-![GitHub](./project_page.png)
-![GitHub](./self_page.png)
+![GitHub](./assert/start_page.png)
+![GitHub](./assert/education_page.png)
+![GitHub](./assert/experience_page.png)
+![GitHub](./assert/project_page.png)
+![GitHub](./assert/self_page.png)
