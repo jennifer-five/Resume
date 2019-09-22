@@ -5,4 +5,4 @@ The main code in the resume/lib file, and all resous in the assets file.
 
 You can see the PNG file
 
-![GitHub](./self page.png)
+![GitHub](./self_page.png)
