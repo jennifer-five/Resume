@@ -1,4 +1,8 @@
 # Resume
-You can down the app- release. apk and install in an android to see my mobile app\n
+You can down the app- release. apk and install in an android to see my mobile app
+
 The main code in the resume/lib file, and all resous in the assets file.
-QQ20190921-0.png
+
+You can see the PNG file
+
+![GitHub](./self page.png)
