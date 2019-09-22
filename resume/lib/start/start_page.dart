@@ -49,6 +49,8 @@ class _StartPageState extends State<StartPage> {
                 SizedBox(height: 30.0),
                 buildEmailTextField(context),
                 SizedBox(height: 40.0),
+                buildgitTextField(context),
+                SizedBox(height: 40.0),
                 buildLoginButton(context),
                 SizedBox(height: 30.0),
 
@@ -103,6 +105,10 @@ class _StartPageState extends State<StartPage> {
 
   Container buildEmailTextField(BuildContext context) {
     return getBox(context,"jenniferchang0915@gmail.com",Icons.email);
+
+  }
+  Container buildgitTextField(BuildContext context) {
+    return getBox(context,"https://github.com/jennifer-five",Icons.store);
 
   }
 

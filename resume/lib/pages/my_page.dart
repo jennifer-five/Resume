@@ -24,6 +24,7 @@ class _MyPageState extends State<MyPage>{
 
   @override
   void initState() {
+    //list of the image store in the assets
     imageList
       ..add(Image.asset("assets/1.jpg"))
       ..add(Image.asset("assets/2.jpg"))

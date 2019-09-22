@@ -16,7 +16,7 @@ class Skills extends StatelessWidget{
               padding:EdgeInsets.only(bottom: 10 ,right: 10),
               child:Icon(Icons.event_note,color: Colors.white) ,
             ),
-            Text('Education Trip: ',style: TextStyle(fontSize: 25,color: Colors.white),)
+            Text('Skills: ',style: TextStyle(fontSize: 25,color: Colors.white),)
           ],
         ),
         SizedBox(height: 10),
@@ -24,7 +24,7 @@ class Skills extends StatelessWidget{
         SizedBox(height: 20),
         _card(width1, 'Program Language', 'Java', 'C/ C++', 'Python'),
         SizedBox(height: 20),
-        _card(width1, '  Data Analysic', 'R', 'Matlab', 'DBeaver/MySOL'),
+        _card(width1, '  Data Analysic', 'R', 'Matlab', 'DBeaver/MySQL'),
         SizedBox(height: 20),
         _card(width1, '  Web Designer', 'HTML/Java Script', 'VUE/SCSS/TS', 'Flutter'),
 

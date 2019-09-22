@@ -21,6 +21,7 @@ class _ExperiencePageState extends State<ExperiencePage> {
   @override
   Widget build(BuildContext context) {
     return FutureBuilder(
+      //read json file
         future: DefaultAssetBundle.of(context).loadString("assets/experience.json"),
         builder: (context, snapshot) {
           if (snapshot.hasData) {
@@ -40,6 +41,7 @@ class _ExperiencePageState extends State<ExperiencePage> {
               child: Column(
 
                 children: <Widget>[
+                  //title
                   Container(
                     child: AppBarW(title: 'experience page'),
                   ),
@@ -59,7 +61,7 @@ class _ExperiencePageState extends State<ExperiencePage> {
                                 )
                             ),
                             child:
-
+                            //styly for context
                             Column(
                               crossAxisAlignment: CrossAxisAlignment.stretch,
                               children: <Widget>[

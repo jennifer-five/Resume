@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:resume/start/start_page.dart';
 import 'package:resume/widget/app_bar.dart';
+import 'package:resume/widget/courses.dart';
 import 'package:resume/widget/schools.dart';
 import 'package:resume/widget/skills.dart';
 import 'package:resume/widget/web_view.dart';
@@ -64,6 +65,8 @@ class _EducationpageState extends State<Educationpage>{
                             child: Skills(),
                           ),
                           SizedBox(height: 20.0),
+                          Courses(),
+                          SizedBox(height: 10.0),
                         ],
                       )
                     ],
